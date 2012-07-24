@@ -15,6 +15,8 @@
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
     NSLog(@"Thi is a test.");
+    
+    NSString *str = @"Test String";
 }
 
 @end
