@@ -35,19 +35,19 @@
 		AD953CAF15BE66180090A2C3 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		AD953CB015BE66180090A2C3 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		AD953CB115BE66180090A2C3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		AD953CB415BE66190090A2C3 /* First App-Info.plist */ = {isa = PBXFileReference; path = "First App-Info.plist"; sourceTree = "<group>"; };
+		AD953CB415BE66190090A2C3 /* First App-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "First App-Info.plist"; sourceTree = "<group>"; };
 		AD953CB615BE66190090A2C3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		AD953CB815BE66190090A2C3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		AD953CBA15BE66190090A2C3 /* First App-Prefix.pch */ = {isa = PBXFileReference; path = "First App-Prefix.pch"; sourceTree = "<group>"; };
+		AD953CBA15BE66190090A2C3 /* First App-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "First App-Prefix.pch"; sourceTree = "<group>"; };
 		AD953CBC15BE66190090A2C3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
-		AD953CBE15BE661A0090A2C3 /* FAAppDelegate.h */ = {isa = PBXFileReference; path = FAAppDelegate.h; sourceTree = "<group>"; };
+		AD953CBE15BE661A0090A2C3 /* FAAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FAAppDelegate.h; sourceTree = "<group>"; };
 		AD953CBF15BE661A0090A2C3 /* FAAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FAAppDelegate.m; sourceTree = "<group>"; };
 		AD953CC215BE661B0090A2C3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		AD953CC915BE661B0090A2C3 /* First AppTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "First AppTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD953CCA15BE661B0090A2C3 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		AD953CD115BE661C0090A2C3 /* First AppTests-Info.plist */ = {isa = PBXFileReference; path = "First AppTests-Info.plist"; sourceTree = "<group>"; };
+		AD953CD115BE661C0090A2C3 /* First AppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "First AppTests-Info.plist"; sourceTree = "<group>"; };
 		AD953CD315BE661C0090A2C3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		AD953CD515BE661C0090A2C3 /* First_AppTests.h */ = {isa = PBXFileReference; path = First_AppTests.h; sourceTree = "<group>"; };
+		AD953CD515BE661C0090A2C3 /* First_AppTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = First_AppTests.h; sourceTree = "<group>"; };
 		AD953CD615BE661D0090A2C3 /* First_AppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = First_AppTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
