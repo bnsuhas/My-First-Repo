@@ -12,8 +12,6 @@
 
 //Suhas
 
-//San
-
 @synthesize window = _window;
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
