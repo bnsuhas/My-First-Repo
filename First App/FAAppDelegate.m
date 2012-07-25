@@ -10,11 +10,23 @@
 
 @implementation FAAppDelegate
 
+//Suhas
+
+//Ashok
+
+//Santhosh
+
+//Test test
+
 @synthesize window = _window;
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
     NSLog(@"Thi is a test.");
+    
+    NSString *str = @"Test String";
+    
+    NSLog(@"%@",str);
 }
 
 @end
