@@ -16,7 +16,6 @@
 
 //Santhosh
 
->>>>>>> santhosh
 @synthesize window = _window;
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
