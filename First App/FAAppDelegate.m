@@ -17,6 +17,8 @@
     NSLog(@"Thi is a test.");
     
     NSString *str = @"Test String";
+    
+    NSLog(@"%@",str);
 }
 
 @end
