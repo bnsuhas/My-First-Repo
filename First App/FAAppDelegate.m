@@ -9,6 +9,11 @@
 #import "FAAppDelegate.h"
 
 @implementation FAAppDelegate//Exilant
+<<<<<<< HEAD
+=======
+
+//Suhas
+>>>>>>> Commit
 
 @synthesize window = _window;
 
