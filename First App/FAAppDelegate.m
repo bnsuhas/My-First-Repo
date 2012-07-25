@@ -20,6 +20,8 @@
 
 @synthesize window = _window;
 
+//santhosh 
+
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
     NSLog(@"Thi is a test.");
