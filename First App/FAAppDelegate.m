@@ -8,7 +8,7 @@
 
 #import "FAAppDelegate.h"
 
-@implementation FAAppDelegate
+@implementation FAAppDelegate//Exilant
 
 @synthesize window = _window;
 
