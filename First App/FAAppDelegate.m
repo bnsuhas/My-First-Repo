@@ -12,12 +12,7 @@
 
 //Suhas
 
-
 //Ashok
-
-
-
-//Santhosh
 
 @synthesize window = _window;
 
