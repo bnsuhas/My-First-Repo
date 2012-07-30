@@ -37,7 +37,9 @@
     NSLog(@"%@",str);
     NSLog(@"%@",str);
     NSLog(@"%@",str);
-
+    
+    NSLog(@"Commit to revert");
+    
 }
 
 @end
