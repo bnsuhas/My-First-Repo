@@ -39,6 +39,8 @@
     NSLog(@"%@",str);
     
     NSLog(@"Commit to keep");
+    
+    NSLog(@"Commit to keep");
 }
 
 @end
