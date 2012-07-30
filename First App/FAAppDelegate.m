@@ -29,6 +29,8 @@
     NSLog(@"%@",str);
     
      NSLog(@"%@",str);
+    
+    NSLog(@"%@",str);
 }
 
 @end
