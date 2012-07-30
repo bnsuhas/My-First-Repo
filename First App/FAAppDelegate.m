@@ -38,10 +38,7 @@
     NSLog(@"%@",str);
     NSLog(@"%@",str);
     
-    NSLog(@"Commit to revert");
-    
     NSLog(@"Commit to keep");
-    
 }
 
 @end
