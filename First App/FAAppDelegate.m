@@ -27,6 +27,8 @@
     NSString *str = @"Test String";
     
     NSLog(@"%@",str);
+    
+     NSLog(@"%@",str);
 }
 
 @end
