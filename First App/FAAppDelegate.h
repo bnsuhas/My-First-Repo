@@ -13,4 +13,6 @@
 
 @property (assign) IBOutlet NSWindow *window;
 
+@property (assign) IBOutlet NSWindow *window1;
+
 @end
