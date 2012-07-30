@@ -7,6 +7,12 @@
 //
 //santrh=dsadsa
 //header
+
+//santrh=dsadsa
+
+//santrh=dsadsa
+
+>>>>>>> Why this kolaveri 2
 #import <Cocoa/Cocoa.h>
 
 @interface FAAppDelegate : NSObject <NSApplicationDelegate>
