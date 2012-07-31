@@ -45,6 +45,8 @@
      NSLog(@"%@",str);
     
     NSLog(@"%@",str);
+    
+    NSLog(@"Hotfix 1.0");
 }
 
 @end
