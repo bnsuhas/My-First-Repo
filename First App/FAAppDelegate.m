@@ -45,6 +45,8 @@
      NSLog(@"%@",str);
     
     NSLog(@"%@",str);
+    
+    NSLog(@"version 2.0");
 }
 
 @end
