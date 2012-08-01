@@ -436,6 +436,7 @@
 				AD953CDC15BE661D0090A2C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AD953CDD15BE661D0090A2C3 /* Build configuration list for PBXNativeTarget "First AppTests" */ = {
 			isa = XCConfigurationList;
@@ -444,6 +445,7 @@
 				AD953CDF15BE661D0090A2C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
