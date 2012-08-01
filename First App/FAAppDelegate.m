@@ -31,7 +31,11 @@
     
     NSString *str = @"Test String";
     
-    NSLog(@"%@",str);
+    int (^myFirstBlock)(int a);
+    
+    myFirstBlock = ^(int a){ return a;};
+    
+    NSLog(@"%d",myFirstBlock(7));
     
     NSLog(@"%@",str);
     NSLog(@"%@",str);
